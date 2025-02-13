@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/justcool/static/css/main.c6074785.css",
+    "main.js": "/justcool/static/js/main.df2c70ee.js",
+    "index.html": "/justcool/index.html",
+    "main.c6074785.css.map": "/justcool/static/css/main.c6074785.css.map",
+    "main.df2c70ee.js.map": "/justcool/static/js/main.df2c70ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6074785.css",
+    "static/js/main.df2c70ee.js"
+  ]
+}
