@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/justcool/static/css/main.c6074785.css",
-    "main.js": "/justcool/static/js/main.df2c70ee.js",
+    "main.css": "/justcool/static/css/main.7710f529.css",
+    "main.js": "/justcool/static/js/main.f2064a88.js",
+    "static/media/avengers.jpg": "/justcool/static/media/avengers.c2447c8f60fa2c3094d7.jpg",
+    "static/media/girls.jpg": "/justcool/static/media/girls.fbe678745b049aab4026.jpg",
+    "static/media/diana.jpg": "/justcool/static/media/diana.879d07eb23d79c0f2e01.jpg",
+    "static/media/thetwo.jpg": "/justcool/static/media/thetwo.edcb0b5d58f6623c63a2.jpg",
+    "static/media/files.jpg": "/justcool/static/media/files.5d24a10b34e8ffdd23e0.jpg",
+    "static/media/start.jpg": "/justcool/static/media/start.d6c74215f130022cb736.jpg",
+    "static/media/thebest.jpg": "/justcool/static/media/thebest.b3157bad460ad9a25e02.jpg",
+    "static/media/bottom.jpg": "/justcool/static/media/bottom.b4a1ac1889f8427d0398.jpg",
+    "static/media/diana2.jpg": "/justcool/static/media/diana2.cacf46658c43ae246037.jpg",
     "index.html": "/justcool/index.html",
-    "main.c6074785.css.map": "/justcool/static/css/main.c6074785.css.map",
-    "main.df2c70ee.js.map": "/justcool/static/js/main.df2c70ee.js.map"
+    "main.7710f529.css.map": "/justcool/static/css/main.7710f529.css.map",
+    "main.f2064a88.js.map": "/justcool/static/js/main.f2064a88.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6074785.css",
-    "static/js/main.df2c70ee.js"
+    "static/css/main.7710f529.css",
+    "static/js/main.f2064a88.js"
   ]
 }
