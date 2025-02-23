@@ -66,8 +66,14 @@
         &__row {
             display: block;
         }
+        &__title {
+            font-size: 24px;
+        }
         &__text {
-            font-size: 20px;
+            font-size: 18px;
+        }
+        &__column {
+            border: none;
         }
     }
 }
