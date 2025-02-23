@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/justcool/static/css/main.7710f529.css",
-    "main.js": "/justcool/static/js/main.f2064a88.js",
+    "main.css": "/justcool/static/css/main.8ad784d1.css",
+    "main.js": "/justcool/static/js/main.a4ee8516.js",
     "static/media/avengers.jpg": "/justcool/static/media/avengers.c2447c8f60fa2c3094d7.jpg",
     "static/media/girls.jpg": "/justcool/static/media/girls.fbe678745b049aab4026.jpg",
     "static/media/diana.jpg": "/justcool/static/media/diana.879d07eb23d79c0f2e01.jpg",
+    "static/media/third.jpg": "/justcool/static/media/third.acbc50f34191c3848422.jpg",
     "static/media/thetwo.jpg": "/justcool/static/media/thetwo.edcb0b5d58f6623c63a2.jpg",
     "static/media/files.jpg": "/justcool/static/media/files.5d24a10b34e8ffdd23e0.jpg",
     "static/media/start.jpg": "/justcool/static/media/start.d6c74215f130022cb736.jpg",
+    "static/media/finishthird.jpg": "/justcool/static/media/finishthird.cd68a69d75353da19c18.jpg",
     "static/media/thebest.jpg": "/justcool/static/media/thebest.b3157bad460ad9a25e02.jpg",
+    "static/media/drigg.jpg": "/justcool/static/media/drigg.5c58586700837b156579.jpg",
     "static/media/bottom.jpg": "/justcool/static/media/bottom.b4a1ac1889f8427d0398.jpg",
     "static/media/diana2.jpg": "/justcool/static/media/diana2.cacf46658c43ae246037.jpg",
+    "static/media/dianawith.jpg": "/justcool/static/media/dianawith.2eb9188982f4755c0fc2.jpg",
+    "static/media/joung.jpg": "/justcool/static/media/joung.916fde25b5e576c494d2.jpg",
     "index.html": "/justcool/index.html",
-    "main.7710f529.css.map": "/justcool/static/css/main.7710f529.css.map",
-    "main.f2064a88.js.map": "/justcool/static/js/main.f2064a88.js.map"
+    "main.8ad784d1.css.map": "/justcool/static/css/main.8ad784d1.css.map",
+    "main.a4ee8516.js.map": "/justcool/static/js/main.a4ee8516.js.map"
   },
   "entrypoints": [
-    "static/css/main.7710f529.css",
-    "static/js/main.f2064a88.js"
+    "static/css/main.8ad784d1.css",
+    "static/js/main.a4ee8516.js"
   ]
 }
